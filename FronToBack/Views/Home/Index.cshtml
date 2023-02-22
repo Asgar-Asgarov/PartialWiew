@@ -1,4 +1,11 @@
-﻿@{
+﻿@model List<Student>
+@{
     ViewData["Title"] = "Home Page";
 }
 
+@foreach (var item in Model)
+  {
+    
+    <p> @item.Id @item.Name  @item.Surname</p>
+    
+  }
