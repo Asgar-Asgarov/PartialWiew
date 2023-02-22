@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LZKvvX8aY+6vKnD8n6LJtCFBiSK8xIWu7EGAao3JgqM=",
+  "Hash": "DM3rAhuum0eggcIEycA+wDSdYG3HuEQsptpCNAO2LnQ=",
   "Source": "FronToBack",
   "BasePath": "_content/FronToBack",
   "Mode": "Default",
@@ -51,12 +51,12 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FronToBack.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\css\\style.css",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
+      "RelativePath": "css/style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\css\\style.css.map",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "RelativePath": "css/style.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\blog-feature-img-1.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "RelativePath": "img/blog-feature-img-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot\\img\\blog-feature-img-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\blog-feature-img-3.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "RelativePath": "img/blog-feature-img-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\blog-feature-img-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\blog-feature-img-4.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "RelativePath": "img/blog-feature-img-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot\\img\\blog-feature-img-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\favicon.png",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "RelativePath": "img/favicon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\footer-bottom-1.png",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "RelativePath": "img/footer-bottom-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\img\\footer-bottom-1.png"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\h1-custom-icon.png",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "RelativePath": "img/h1-custom-icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\h1-custom-icon.png"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\h2-sign-img.png",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "RelativePath": "img/h2-sign-img.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot\\img\\h2-sign-img.png"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\h3-background-img.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "RelativePath": "img/h3-background-img.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\h3-background-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\h3-slider-background-2.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "RelativePath": "img/h3-slider-background-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot\\img\\h3-slider-background-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\h3-slider-background-3.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "RelativePath": "img/h3-slider-background-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\h3-slider-background-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\h3-slider-background.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "RelativePath": "img/h3-slider-background.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot\\img\\h3-slider-background.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\h3-team-img-1.png",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "RelativePath": "img/h3-team-img-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\h3-team-img-1.png"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\h3-team-img-2.png",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "RelativePath": "img/h3-team-img-2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\img\\h3-team-img-2.png"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\h3-team-img-3.png",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "RelativePath": "img/h3-team-img-3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\h3-team-img-3.png"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\h3-team-img-4.png",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "RelativePath": "img/h3-team-img-4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot\\img\\h3-team-img-4.png"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\h3-video-img.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "RelativePath": "img/h3-video-img.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\h3-video-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\instagram1.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "RelativePath": "img/instagram1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot\\img\\instagram1.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\instagram2.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "RelativePath": "img/instagram2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\instagram2.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\instagram3.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "RelativePath": "img/instagram3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot\\img\\instagram3.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\instagram4.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "RelativePath": "img/instagram4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,15 +422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\instagram4.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\instagram5.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "RelativePath": "img/instagram5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\img\\instagram5.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\instagram6.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "RelativePath": "img/instagram6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,15 +456,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\instagram6.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\instagram7.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "RelativePath": "img/instagram7.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -473,15 +473,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\img\\instagram7.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\instagram8.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "RelativePath": "img/instagram8.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -490,15 +490,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\instagram8.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\logo.png",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "RelativePath": "img/logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -507,15 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-10-img.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "RelativePath": "img/shop-10-img.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -524,15 +524,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\shop-10-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-11-img.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "RelativePath": "img/shop-11-img.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -541,15 +541,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot\\img\\shop-11-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-12-img.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "RelativePath": "img/shop-12-img.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -558,15 +558,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\shop-12-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-13-img.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "RelativePath": "img/shop-13-img.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -575,15 +575,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\img\\shop-13-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-14-img.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "RelativePath": "img/shop-14-img.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -592,15 +592,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\img\\shop-14-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-7-img.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "RelativePath": "img/shop-7-img.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -609,15 +609,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot\\img\\shop-7-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-8-img.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "RelativePath": "img/shop-8-img.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -626,15 +626,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot\\img\\shop-8-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-9-img.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "RelativePath": "img/shop-9-img.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -643,15 +643,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\img\\shop-9-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-category-img-1.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "RelativePath": "img/shop-category-img-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot\\img\\shop-category-img-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-category-img-2.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
+      "RelativePath": "img/shop-category-img-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -677,15 +677,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot\\img\\shop-category-img-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-category-img-3.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "RelativePath": "img/shop-category-img-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -694,15 +694,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot\\img\\shop-category-img-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-category-img-4.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "RelativePath": "img/shop-category-img-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -711,15 +711,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot\\img\\shop-category-img-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-category-img-5.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "RelativePath": "img/shop-category-img-5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -728,15 +728,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot\\img\\shop-category-img-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\shop-category-img-6.jpg",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
+      "RelativePath": "img/shop-category-img-6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -745,15 +745,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot\\img\\shop-category-img-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\testimonial-img-1.png",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
+      "RelativePath": "img/testimonial-img-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -762,15 +762,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot\\img\\testimonial-img-1.png"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\testimonial-img-2.png",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "RelativePath": "img/testimonial-img-2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -779,15 +779,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\img\\testimonial-img-2.png"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\js\\script.js",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "RelativePath": "js/script.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -796,15 +796,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\owlcarousel\\owl.carousel.min.css",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/bootstrap/LICENSE",
+      "RelativePath": "owlcarousel/owl.carousel.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -813,15 +813,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "wwwroot\\owlcarousel\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "RelativePath": "owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -830,15 +830,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\owlcarousel\\owl.theme.default.min.css",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "RelativePath": "owlcarousel/owl.theme.default.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -847,15 +847,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\owlcarousel\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\lib\\_common.scss",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "RelativePath": "sass/lib/_common.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -864,15 +864,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\sass\\lib\\_common.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\lib\\_mixins.scss",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "RelativePath": "sass/lib/_mixins.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -881,15 +881,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "wwwroot\\sass\\lib\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\lib\\_varibales.scss",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "RelativePath": "sass/lib/_varibales.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -898,15 +898,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot\\sass\\lib\\_varibales.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_about.scss",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "RelativePath": "sass/sections/_about.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -915,15 +915,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_about.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_accordion.scss",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "RelativePath": "sass/sections/_accordion.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -932,15 +932,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_accordion.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_blog.scss",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "RelativePath": "sass/sections/_blog.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -949,15 +949,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_blog.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_experts.scss",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/jquery/dist/jquery.js",
+      "RelativePath": "sass/sections/_experts.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -966,15 +966,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_experts.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_footer.scss",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "RelativePath": "sass/sections/_footer.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_header.scss",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "RelativePath": "sass/sections/_header.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1000,15 +1000,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_header.scss"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_instagram.scss",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "lib/jquery/LICENSE.txt",
+      "RelativePath": "sass/sections/_instagram.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1017,7 +1017,160 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_instagram.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_product-list.scss",
+      "SourceId": "FronToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
+      "BasePath": "_content/FronToBack",
+      "RelativePath": "sass/sections/_product-list.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_product-list.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_product.scss",
+      "SourceId": "FronToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
+      "BasePath": "_content/FronToBack",
+      "RelativePath": "sass/sections/_product.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_product.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_progress.scss",
+      "SourceId": "FronToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
+      "BasePath": "_content/FronToBack",
+      "RelativePath": "sass/sections/_progress.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_progress.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_say.scss",
+      "SourceId": "FronToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
+      "BasePath": "_content/FronToBack",
+      "RelativePath": "sass/sections/_say.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_say.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_shop-list.scss",
+      "SourceId": "FronToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
+      "BasePath": "_content/FronToBack",
+      "RelativePath": "sass/sections/_shop-list.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_shop-list.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_slider.scss",
+      "SourceId": "FronToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
+      "BasePath": "_content/FronToBack",
+      "RelativePath": "sass/sections/_slider.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_slider.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_subscribe.scss",
+      "SourceId": "FronToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
+      "BasePath": "_content/FronToBack",
+      "RelativePath": "sass/sections/_subscribe.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_subscribe.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\sections\\_tab.scss",
+      "SourceId": "FronToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
+      "BasePath": "_content/FronToBack",
+      "RelativePath": "sass/sections/_tab.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sass\\sections\\_tab.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\sass\\style.scss",
+      "SourceId": "FronToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
+      "BasePath": "_content/FronToBack",
+      "RelativePath": "sass/style.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sass\\style.scss"
     }
   ]
 }

@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-
+using FronToBack.Models;
 using FronToBack.DAL;
 
 namespace FronToBack.Controllers;
@@ -16,8 +16,9 @@ public class HomeController : Controller
 
     public IActionResult Index()
     { 
-        
-      return View();
+          List<Slider> sliders = _appDbContext.Sliders.ToList();
+        return View(sliders);
+     
     }
 
   
