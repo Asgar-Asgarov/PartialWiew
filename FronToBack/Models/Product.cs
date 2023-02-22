@@ -6,5 +6,5 @@ public class Product
     public string Name { get; set; }
     public int Price { get; set; }
     public int CategoryId { get; set; }
-    List<ProductImage> productImages { get; set; }
+   public List<ProductImage> productImages { get; set; }
 }

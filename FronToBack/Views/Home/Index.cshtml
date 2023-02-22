@@ -45,7 +45,7 @@
                                 <ul class="category list-unstyled" style="display: none;">
                                     <li><a href="" data-id="all">All</a></li>
                                     
-                                    @foreach (var item in Model.Categories)
+                                  @foreach (var item in Model.Categories)
                                     {
                                         <li><a href="" data-id="@item.Name.ToLower()">@item.Name</a></li>
                                     }
@@ -54,7 +54,7 @@
                         </ul>
                         <ul class="category d-none d-md-flex list-unstyled">
                             <li><a href="" data-id="all">All</a></li>
-                                                            @foreach (var item in Model.Categories)
+                           @foreach (var item in Model.Categories)
                                     {
                                         <li><a href="" data-id="@item.Name.ToLower()">@item.Name</a></li>
                                     }
@@ -68,23 +68,26 @@
                     </div>
                 </div>
                 <div class="row">
-
+                   @foreach (var item in Model.Products)
+                   {
                     <div class="col-sm-6 col-md-4 col-lg-3 mt-3">
-                        <div class="product-item text-center" data-id="exotic">
+                        <div class="product-item text-center" data-id="@item.Category.Name.ToLower()">
                             <div class="img">
                                 <a href="">
-                                    <img src="~/img/shop-7-img.jpg" class="img-fluid" alt="">
+                                    <img src="~/img/@item." class="img-fluid"  alt="">
                                 </a>
                             </div>
                             <div class="title mt-3">
-                                <h6>MAJESTY PALM</h6>
+                                <h6>@item.Name</h6>
                             </div>
                             <div class="price">
-                                <span class="text-black-50">Add to cart</span>
-                                <span class="text-black-50">$259</span>
+                                <span class="text-black-50">@item.productImages</span>
+                                <span class="text-black-50">$@item.Price</span>
                             </div>
                         </div>
                     </div>
+                   }
+                    
                 </div>
             </div>
         </section>
