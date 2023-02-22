@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using FronToBack.Models;
+
 namespace FronToBack.DAL;
 public class AppDbContext : DbContext
 {
@@ -8,5 +8,5 @@ public class AppDbContext : DbContext
     {
     }
 
-        public DbSet<Student> Students{get;set;}
-}
+        // public DbSet<Student> Students{get;set;}
+} 
