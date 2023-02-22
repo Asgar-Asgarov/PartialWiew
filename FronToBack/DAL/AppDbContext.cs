@@ -9,4 +9,5 @@ public class AppDbContext : DbContext
     }
 
          public DbSet<Slider> Sliders{get;set;}
+         public DbSet<SliderDetail> SliderDetails {get;set;}
 } 
