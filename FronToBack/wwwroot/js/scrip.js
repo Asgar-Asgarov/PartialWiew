@@ -1,4 +1,26 @@
+// let loadMore = document.getElementById("loadMore")
+// loadMore.addEventListener("click", function () {
+//     alert("salam")
+// });
 $(document).ready(function () {
+
+    //loadMore
+    let skip=3;
+    $(document).on('click','#loadMore',function () {
+        let productList = $("#productList");
+        let productCount = $("#productCount").val();
+        $.ajax({
+            url: "/product/loadMore?skip=3"+skip,
+            method: "get",
+            success: function name(res) {
+                productList.append(res);
+                skip+=3;
+                if (skip>=productCount) {
+                    $("#loadMore").remove();
+                }
+            }
+        })
+    })
 
     // HEADER
 

@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\img\\blog-feature-img-4.jpg"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\cat.jpg",
+      "PackagePath": "staticwebassets\\img\\cat.jpg"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\favicon.png",
       "PackagePath": "staticwebassets\\img\\favicon.png"
     },
@@ -177,8 +181,8 @@
       "PackagePath": "staticwebassets\\img\\testimonial-img-2.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\js\\script.js",
-      "PackagePath": "staticwebassets\\js\\script.js"
+      "Id": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\js\\scrip.js",
+      "PackagePath": "staticwebassets\\js\\scrip.js"
     },
     {
       "Id": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\owlcarousel\\owl.carousel.min.css",

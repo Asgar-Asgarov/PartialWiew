@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DM3rAhuum0eggcIEycA+wDSdYG3HuEQsptpCNAO2LnQ=",
+  "Hash": "ZHh0klJF8TFUuG0igWw3rmtlKbqW9cSt52clJ1u1juY=",
   "Source": "FronToBack",
   "BasePath": "_content/FronToBack",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\blog-feature-img-4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\cat.jpg",
+      "SourceId": "FronToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
+      "BasePath": "_content/FronToBack",
+      "RelativePath": "img/cat.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cat.jpg"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\img\\favicon.png",
@@ -782,12 +799,12 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-img-2.png"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\js\\script.js",
+      "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\js\\scrip.js",
       "SourceId": "FronToBack",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\",
       "BasePath": "_content/FronToBack",
-      "RelativePath": "js/script.js",
+      "RelativePath": "js/scrip.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -796,7 +813,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\script.js"
+      "OriginalItemSpec": "wwwroot\\js\\scrip.js"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\wwwroot\\owlcarousel\\owl.carousel.min.css",

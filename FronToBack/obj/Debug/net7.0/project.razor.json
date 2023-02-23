@@ -18668,6 +18668,11 @@
       "FilePath": "c:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\Views\\Product\\Index.cshtml",
       "TargetPath": "Views\\Product\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\Views\\Shared\\_ProductLoadMorePartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ProductLoadMorePartial.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.3"
