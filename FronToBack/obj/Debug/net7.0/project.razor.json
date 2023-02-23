@@ -18663,6 +18663,11 @@
       "FilePath": "c:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\User\\Desktop\\backend projects\\FrontToBackMvc\\FronToBack\\Views\\Product\\Index.cshtml",
+      "TargetPath": "Views\\Product\\Index.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.3"

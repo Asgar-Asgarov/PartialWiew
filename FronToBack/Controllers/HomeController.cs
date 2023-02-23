@@ -16,19 +16,22 @@ public class HomeController : Controller
     }
 
     public IActionResult Index()
-    { 
+    {
         HomeVM homeVM = new HomeVM();
-      homeVM.Sliders = _appDbContext.Sliders.ToList();
-     homeVM.SliderDetail=_appDbContext.SliderDetails.FirstOrDefault();
-     homeVM.Categories=_appDbContext.Categories.Include(c=>c.products).ToList();
-     homeVM.Products=_appDbContext.Products.Include(p=>p.productImages)
-     .ToList();
-     homeVM.ProductImages=_appDbContext.ProductImages.ToList();
-    
+        homeVM.Sliders = _appDbContext.Sliders.ToList();
+        homeVM.SliderDetail = _appDbContext
+        .SliderDetails.FirstOrDefault();
+        homeVM.Categories = _appDbContext.Categories
+        .Include(c => c.products).ToList();
+        homeVM.Products = _appDbContext.Products
+        .Include(p => p.productImages)
+        .ToList();
+        homeVM.ProductImages = _appDbContext.ProductImages.ToList();
+
         return View(homeVM);
-     
+
     }
 
-  
-   
+
+
 }

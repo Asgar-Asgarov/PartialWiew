@@ -19,7 +19,12 @@ private readonly AppDbContext _appDbContext;
 
     public IActionResult Index()
     {
-        return View();
+       var Categories = _appDbContext.Categories
+        .Include(c => c.products).ToList();
+        var products = _appDbContext.Products
+        .Include(p=>p.productImages)
+        .ToList();
+        return View(Categories);
     }
 
 }
